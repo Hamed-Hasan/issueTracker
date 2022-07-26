@@ -45,9 +45,9 @@ const VideoSection = () => {
         <div>
         <FcPositiveDynamic className='counterIcon' />
         </div>
-            <p className='my-3'>App Rate</p>
+            <p className='my-3'>Our App Rate</p>
          <CountUp
-         end={400}
+         end={800}
          duration={5}
          />
           </div>
